@@ -18,6 +18,9 @@ public class Car {
         this.type = type;
     }
 
+    public Car() {
+    }
+
     public Long getId() {
         return id;
     }
